@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Young Hyeon&fontSize=90" />
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Yeong Hyeon!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 <!--
 **lyh0530/lyh0530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
